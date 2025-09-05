@@ -1,4 +1,4 @@
-potify Clone
+Spotify Clone
 This project is a front-end replica of the Spotify web player user interface, built using pure HTML and CSS. The goal was to recreate the look, feel, and responsive layout of the original application to demonstrate core web development skills.
 
 Features
